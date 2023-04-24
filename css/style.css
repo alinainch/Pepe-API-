@@ -1,0 +1,11 @@
+img{
+  height: 500px;
+  width: 500px;
+}
+
+body{
+  background-image: url('../img/bright-sunrise-hills-rxntakkcvr866q7y.jpeg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: block;
+}
